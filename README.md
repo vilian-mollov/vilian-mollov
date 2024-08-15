@@ -2,7 +2,7 @@
 - 👀 Interested in emerging technologies such as Artificial Intelligence (AI) and Machine Learning (ML), also
 - Web Applications, Data Science, Cloud Computing, and more.
 - 🌱 Actively pursuing proficiency in the latest technologies to enhance skills and stay current with industry trends.
-- 📫 You can reach me on e-mail - vilian3737@gmail.com
+- 📫 You can reach me on linkedIn https://www.linkedin.com/in/vilian-mollov-188450205/
 - 💼 I am working at SAP as an ABAP Software Developer.
 - ❤️ I love good coffee, playing video games, listening to music and hiking!
 
